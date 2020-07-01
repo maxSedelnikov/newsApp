@@ -1,4 +1,5 @@
 # newsApp
+# link to the page https://maxsedelnikov.github.io/newsApp/
 ---
 New application
 Feautures:
